@@ -30,7 +30,8 @@
 
 [לסקריפט שבירת הזכוכית](https://github.com/GameDev-K-G/HW8_3_AI/blob/main/Assets/Destroy.cs)
 
-  [itch.io:arrow_forward:](https://gamedevk-g.itch.io/tilemapgame)
+  # למשחק באתר itch.io :
+  [itch.io:arrow_forward:](https://gamedevk-g.itch.io/hw8ai)
  
  
 ## תהנו :smiley:
